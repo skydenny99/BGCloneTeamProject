@@ -1,0 +1,46 @@
+# A great primer on p4ignore https://portal.perforce.com/s/article/6510
+
+.vs/
+
+Build/
+DerivedDataCache/
+FileOpenOrder/
+Intermediate/
+Saved/
+*.pdb
+*.sln
+*.vcxproj
+*-Debug.*
+
+
+# Rider
+.idea/
+
+# Ignore Mac desktop services store files
+.DS_Store
+
+# Ignore linux project files.
+*.user
+*.pro
+*.pri
+*.kdev4
+
+#Linux Debug Files
+*.sym
+*.debug
+
+#We ignore most binaries since they aren't relevant. For example shipping binaries that get created when packaging the game.
+Binaries/
+
+# We want to allow plugins to not have to be built on developers' individual computers
+!/Plugins/
+
+#We want to allow editor required binaries so people don't have to build themselves
+
+!/Binaries/**Editor*
+
+# But continue to ignore intermediate
+Intermediate/
+
+#Files we want to add to the depot but remove from people accidentally touching/
+*.vsconfig
