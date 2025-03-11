@@ -1,4 +1,4 @@
-echo "# 🎮 BG Clone Team Project
+# 🎮 BG Clone Team Project
 
 > **배틀그라운드 모작 팀 프로젝트**  
 > **개발 기간**: 2025년 1월 13일 ~ 3월 7일 (약 8주)  
@@ -9,7 +9,9 @@ echo "# 🎮 BG Clone Team Project
 
 ## 📌 프로젝트 소개
 
-🎯 본 프로젝트는 **PUBG: BATTLEGROUNDS**를 모티브로 한 팀 프로젝트입니다. 데디케이티드 서버를 활용하여 **Gameplay Ability System**을 기반으로 주요 기능을 구현하였습니다. 배틀로얄 게임의 핵심 시스템을 직접 개발하며, 팀원 간 역할을 분담하여 협업하였습니다.
+🎯 본 프로젝트는 **PUBG: BATTLEGROUNDS**를 모티브로 한 팀 프로젝트입니다.  
+데디케이티드 서버를 활용하여 **Gameplay Ability System**을 기반으로 주요 기능을 구현하였습니다.  
+배틀로얄 게임의 핵심 시스템을 직접 개발하며, 팀원 간 역할을 분담하여 협업하였습니다.
 
 📽 **[시연 영상 확인](https://overcle.notion.site/49591e7ff9ef4feda7fb07e8366c03b5?pvs=4)**
 
@@ -20,7 +22,7 @@ echo "# 🎮 BG Clone Team Project
 - **언리얼 엔진 5** (Unreal Engine 5)
 - **Gameplay Ability System (GAS)**
 - **C++ & Blueprints**
-- **Multiplayer Dedicated Server**
+- **Dedicated Server**
 - **UI 구현 (UMG)**
 
 ---
