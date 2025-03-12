@@ -13,7 +13,7 @@
 데디케이티드 서버를 활용하여 **Gameplay Ability System**을 기반으로 주요 기능을 구현하였습니다.  
 배틀로얄 게임의 핵심 시스템을 직접 개발하며, 팀원 간 역할을 분담하여 협업하였습니다.
 
-📽 **[시연 영상 확인](https://overcle.notion.site/49591e7ff9ef4feda7fb07e8366c03b5?pvs=4)**
+📽 **[시연 영상 확인](https://youtu.be/q5qFbxqmi4c?si=NboIlagthqOG-Tin)**
 
 ---
 
